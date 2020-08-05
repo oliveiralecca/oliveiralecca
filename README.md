@@ -11,7 +11,7 @@
   * CSS;
   * Stack JavaScript (ReactJS, Node.js, React Native).
   
-Student in **Curso em Vídeo** 🖖🏻 &nbsp; **Rocketseat** 🚀 &nbsp; and **Origamid** 🐺 💜
+Student @ **Curso em Vídeo** 🖖🏻 &nbsp; **Rocketseat** 🚀 &nbsp; and **Origamid** 🐺 💜
 
 ---
 If you wanna know a little bit more about me, I left my other social medias bellow:
