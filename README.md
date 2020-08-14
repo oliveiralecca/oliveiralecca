@@ -9,12 +9,13 @@
 * Technologies I'm focus now:
   * HTML;
   * CSS;
-  * Stack JavaScript (ReactJS, Node.js, React Native).
+  * JavaScript;
+  * ReactJS, Node.js, React Native.
   
 Student @ **Curso em Vídeo** 🖖🏻 &nbsp; **Rocketseat** 🚀 &nbsp; and **Origamid** 🐺 💜
 
 ---
-If you wanna know a little bit more about me, I left my other social medias bellow:
+If you wanna know a little bit more about me, I left my other social medias and contact bellow:
 
 [![Twitter Badge](https://img.shields.io/badge/-@ohlecca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ohlecca)](https://twitter.com/ohlecca)
 [![Linkedin Badge](https://img.shields.io/badge/-Letícia%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiralecca)](https://www.linkedin.com/in/oliveiralecca)
