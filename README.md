@@ -1,5 +1,6 @@
-## Hey there, guys <img src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif" alt="hiimage" width="40">
----
+# Hey there, guys <img src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif" alt="hiimage" width="40">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oliveiralecca.oliveiralecca)
+
 **Welcome to the jungle, oops, to my GitHub profile! =)** 
 
 👩🏻‍💻 &nbsp; Currently working @ SofTeam | Junior Computing Company as Commercial Advisor
