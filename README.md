@@ -16,7 +16,6 @@
 Student @ **Curso em Vídeo** 🖖🏻 &nbsp; **Rocketseat** 🚀 &nbsp; **Origamid** 🐺 💜 &nbsp; and more...
 
 ---
-If you wanna know a little bit more about me, I left my other social media and contact bellow:
+If you wanna know a little bit more about me, I left my Linkedin profile bellow:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Letícia%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiralecca)](https://www.linkedin.com/in/oliveiralecca)
-[![Yahoo! Badge](https://img.shields.io/badge/-Contact%20me%20by%20Email-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:oliveiraslc@yahoo.com.br)](mailto:oliveiraslc@yahoo.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiralecca)](https://www.linkedin.com/in/oliveiralecca)
