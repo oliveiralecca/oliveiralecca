@@ -1,21 +1,31 @@
-# Hey there, guys <img src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif" alt="hiimage" width="40">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oliveiralecca.oliveiralecca)
+<h1>Hey there <img alt="hiimage" width="40" src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif"></h1>
 
-**Welcome to the jungle, oops, to my GitHub profile! =)** 
+<p><b>Welcome to the jungle, oops, to my GitHub profile!</b></p>
 
-👩🏻‍💻 &nbsp; Currently working @ Crably Platform as Developer Trainee (HTML, CSS, JS and Liquid Template Language) 
+👩🏻‍💻 &nbsp; Currently working @ Crably Platform as Developer Trainee (HTML5, CSS3, Bootstrap, JS, jQuery and Liquid Template Language) 
 <br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
+<br/>🌱 &nbsp; Studying React
 
-* Technologies I'm focus now:
-  * HTML;
-  * CSS;
-  * JavaScript;
-  * ReactJS, Node.js, React Native.
-  
-Student @ **Curso em Vídeo** 🖖🏻 &nbsp; **Rocketseat** 🚀 &nbsp; **Origamid** 🐺 💜 &nbsp; and more...
+<div>
+ <img align="center" alt="code" height="200em" width="200em" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralecca&layout=compact&langs_count=7&theme=omni"/>
+</div>
 
----
-If you wanna know a little bit more about me, I left my Linkedin profile bellow:
+<div style="display: inline_block">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+ <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiralecca)](https://www.linkedin.com/in/oliveiralecca)
+<br/><p>Student @ <b>Curso em Vídeo</b> 🖖🏻 &nbsp; <b>Rocketseat</b> 🚀 &nbsp; <b>Origamid</b> 🐺 💜 &nbsp; and more...</p>
+
+##
+
+<div>
+ <a href="https://www.linkedin.com/in/oliveiralecca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="mailto:oliveiraslc@yahoo.com.br"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <img height="28" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> 
+</div>
