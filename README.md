@@ -28,5 +28,5 @@
 <div>
  <a href="https://www.linkedin.com/in/oliveiralecca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="mailto:oliveiraslc@yahoo.com.br"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <img height="28" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> 
+ <img align="right" height="28" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> 
 </div>
