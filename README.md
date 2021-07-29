@@ -10,7 +10,7 @@
 <br/><div>
  <img align="center" alt="code" height="200em" width="200em" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralecca&layout=compact&langs_count=7&theme=omni"/>
-</div>
+</div><br/>
 
 <div style="display: inline_block">
  <span>My focuses:</span>
