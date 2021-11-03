@@ -2,7 +2,7 @@
 
 <p><b>Welcome to the jungle, oops, to my GitHub profile!</b></p>
 
-👩🏻‍💻 &nbsp; Currently working @ Crably Platform as Developer Trainee (HTML5, CSS3, Bootstrap, JS, jQuery and Liquid Template Language) 
+👩🏻‍💻 &nbsp; Currently working @ TC Traders Club as Junior Developer 
 <br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
 <br/>🌱 &nbsp; Studying React
