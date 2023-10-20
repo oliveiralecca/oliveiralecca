@@ -1,6 +1,6 @@
-<h1>Hey there <img alt="hiimage" width="40" src="https://media.giphy.com/media/f4DmXx6APMvCWkvx9t/giphy.gif"></h1>
+<h1>Hey there 👋🏻</h1>
 
-<p><b>Welcome to the jungle, oops, to my GitHub profile!</b></p>
+<p><b>Welcome to my GitHub profile!</b></p>
 
 👩🏻‍💻 &nbsp; Currently working @ TC as Junior Developer 
 <br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
