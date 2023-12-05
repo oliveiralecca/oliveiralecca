@@ -2,7 +2,7 @@
 
 <p><b>Welcome to my GitHub profile!</b></p>
 
-👩🏻‍💻 &nbsp; Currently working @ TC as Junior Developer 
+<!--👩🏻‍💻 &nbsp; Currently working @ TC as Junior Developer -->
 <br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
 <br/>🌱 &nbsp; Studying React
