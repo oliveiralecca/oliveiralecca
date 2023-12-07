@@ -19,7 +19,7 @@
  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-<br/><p>Student @ <b>Curso em Vídeo</b> 🖖🏻 &nbsp; <b>Rocketseat</b> 🚀 &nbsp; <b>Origamid</b> 🐺 💜 &nbsp; and more...</p>
+<br/><p>Student @ <b>Curso em Vídeo</b> 🖖🏻 &nbsp; <b>Rocketseat</b> 🚀 &nbsp; <b>Origamid</b> 🐺 &nbsp; and more...</p>
 
 ##
 
