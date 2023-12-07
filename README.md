@@ -1,11 +1,9 @@
-<h1>Hey there 👋🏻</h1>
-
-<p><b>Welcome to my GitHub profile!</b></p>
+<h1>Hey there 👋🏻<br/>Welcome to my GitHub profile!</h1><br/>
 
 <!--👩🏻‍💻 &nbsp; Currently working @ TC as Junior Developer -->
-<br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
+📚 &nbsp; Information Systems student @ Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
-<br/>🌱 &nbsp; Studying React
+<br/>🌱 &nbsp; Improving my ReactJS knowledge @ Ignite by Rocketseat
 
 <div>
  <img align="center" alt="code" height="200em" width="200em" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
