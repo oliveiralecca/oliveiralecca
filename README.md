@@ -1,6 +1,6 @@
 <h1>Hey there 👋🏻<br/>Welcome to my GitHub profile!</h1><br/>
 
-👩🏻‍💻 &nbsp; Currently working @ DBC Company as Software Developer
+👩🏻‍💻 &nbsp; Currently working @ DBC Company as Front-End Developer
 <br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
 <br/>🌱 &nbsp; Improving my ReactJS knowledge @ Ignite by Rocketseat
