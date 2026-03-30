@@ -1,9 +1,9 @@
 <h1>Hey there 👋🏻<br/>Welcome to my GitHub profile!</h1><br/>
 
-👩🏻‍💻 &nbsp; Currently working @ DBC Company as Mid-Level Software Developer
-<br/>📚 &nbsp; Information Systems student @ Federal University of Sergipe
+👩🏻‍💻 &nbsp; Currently working @ Stone as Mid-Level Software Engineer
+<br/>🎓 &nbsp; Bachelor's degree in Information Systems from Federal University of Sergipe
 <br/>🚀 &nbsp; Venturing myself with online classes, bootcamps, events and courses about programming
-<br/>🌱 &nbsp; Improving my ReactJS knowledge @ Ignite by Rocketseat
+<br/>🌱 &nbsp; Improving my knowledgements @ Rocketseat
 
 <div>
  <img align="center" alt="code" height="200em" width="200em" src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif">
